@@ -1,6 +1,6 @@
 # Instruction how to send project to review
 - [Russian](https://github.com/bahtibek-an/Instruction-how-to-send-project-to-review/edit/main/README.md)
-# Frontend My Yelp
+# backed My Yelp
 ## Description
 <img src="https://storage.googleapis.com/qwasar-public/track-web/amplify_reactjs.png" width="80%"/>
 Remember to git add && git commit && git push each exercise!
