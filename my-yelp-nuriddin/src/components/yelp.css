@@ -1,0 +1,34 @@
+body {
+    margin: 0;
+    padding: 0;
+    scroll-behavior: none;
+    font-family: sans-serif;
+}
+.yelpPages {
+    margin: 0;
+    background-image: url(./images/images.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity: 0.9;
+}
+.stack-login {
+    width: 650px;
+    height: auto;
+    background-color: transparent;
+    border: 1px solid black;
+    margin-left: 300px;
+    margin-top: 300px;
+    padding: 10px 20px;
+    border-radius: 10px;
+}
+.stack-login .span {
+    color: rgb(4, 4, 239);
+    text-decoration: none;
+}
+.mainPages{
+    background-color: #000059;
+    background-size: cover;
+    width: 100%;
+    height: 100vh;
+    
+}
